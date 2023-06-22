@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 // Import ERC721 standard from the OpenZeppelin contracts library
-// OpenZeppelin contracts are widely audited and used by the community
+// Notice that OpenZeppelin contracts are widely audited and used by the community
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
 // Contract MyNFT inherits from ERC721
