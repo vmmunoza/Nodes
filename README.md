@@ -1,3 +1,5 @@
-# web3.js
+# NODES
 
-This code sample gets the transaction history of an NFT contract by fetching all 'Transfer' events, which represent the transfer of an NFT from one address to another. It then logs the sender ('from'), receiver ('to'), and ID of the transferred token ('tokenId') for each transfer.
+Sample of Node.js scripts demonstrating interaction with the Ethereum blockchain. 
+
+It includes examples of creating and signing transactions, smart contract interaction, and listening to blockchain events using the Web3.js library.
